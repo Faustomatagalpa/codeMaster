@@ -1,0 +1,25 @@
+{
+  "name": "codemaster",
+  "version": "1.0.0",
+  "main": "txt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faustomatagalpa/codeMaster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faustomatagalpa/codeMaster/issues"
+  },
+  "homepage": "https://github.com/Faustomatagalpa/codeMaster#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "description": "conexion mysql desde nodejs",
+  "devDependencies": {}
+}
